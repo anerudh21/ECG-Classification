@@ -30,7 +30,7 @@ Classification reports
 Confusion matrix visualization
 File Structure
 
-ECG_hybrid_model.py: Main implementation file containing the ECGhybrid class
+main.py: Main implementation file containing the ECGhybrid class
 MIT-BIH dataset files (CSV format):
 mitbih_train.csv
 mitbih_test.csv
